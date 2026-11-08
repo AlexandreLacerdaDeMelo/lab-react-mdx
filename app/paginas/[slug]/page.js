@@ -18,7 +18,7 @@ export default async function Page({ params }) {
   if (!doc) notFound();
   return (
     <article>
-      <p className="eyebrow">Página editorial</p>
+      <p className="eyebrow">Aurora Studio</p>
       <h1>{doc.frontmatter.title}</h1>
       <p className="lead">{doc.frontmatter.lead}</p>
       <EditorialContent source={doc.content} />

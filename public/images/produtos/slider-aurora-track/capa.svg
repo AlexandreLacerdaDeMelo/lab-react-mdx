@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Ilustração em duotone roxo e azul de um slider de câmera com halo neon">
+  <defs>
+    <radialGradient id="h" cx="40%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#7c6cf0" stop-opacity=".5"/>
+      <stop offset="55%" stop-color="#4f8fe8" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#0a0d14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="360" fill="#0a0d14"/>
+  <rect width="640" height="360" fill="url(#h)"/>
+  <rect x="130" y="230" width="380" height="20" rx="6" fill="#141a28" stroke="#ff6a1f" stroke-width="3" stroke-dasharray="120 700"/>
+  <rect x="300" y="190" width="70" height="40" rx="6" fill="#141a28" stroke="#4f8fe8" stroke-width="4"/>
+  <circle cx="320" cy="180" r="18" fill="none" stroke="#7c6cf0" stroke-width="7"/>
+  <circle cx="320" cy="180" r="7" fill="#7c6cf0"/>
+  <circle cx="175" cy="240" r="8" fill="#4f8fe8"/>
+  <circle cx="465" cy="240" r="8" fill="#4f8fe8"/>
+  <text x="380" y="300" font-family="monospace" font-size="16" fill="#ffa552">AURORA TRACK</text>
+</svg>

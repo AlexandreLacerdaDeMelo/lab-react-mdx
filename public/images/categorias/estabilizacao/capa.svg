@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Ilustração em duotone roxo e azul representando a categoria Estabilização">
+  <defs>
+    <radialGradient id="h" cx="35%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#7c6cf0" stop-opacity=".5"/>
+      <stop offset="55%" stop-color="#4f8fe8" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#0a0d14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="360" fill="#0a0d14"/>
+  <rect width="640" height="360" fill="url(#h)"/>
+  <line x1="320" y1="90" x2="320" y2="300" stroke="#4f8fe8" stroke-width="6"/>
+  <line x1="230" y1="300" x2="410" y2="300" stroke="#4f8fe8" stroke-width="6" stroke-linecap="round"/>
+  <line x1="230" y1="300" x2="320" y2="150" stroke="#ff6a1f" stroke-width="4" stroke-dasharray="40 200"/>
+  <line x1="410" y1="300" x2="320" y2="150" stroke="#ff6a1f" stroke-width="4" stroke-dasharray="40 200"/>
+  <rect x="290" y="110" width="60" height="45" rx="6" fill="#141a28" stroke="#7c6cf0" stroke-width="4"/>
+  <circle cx="320" cy="132" r="12" fill="#7c6cf0"/>
+</svg>

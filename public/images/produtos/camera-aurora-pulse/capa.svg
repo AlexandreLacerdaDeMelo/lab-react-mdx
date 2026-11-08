@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Ilustração em duotone roxo e azul de uma câmera de ação compacta com halo neon">
+  <defs>
+    <radialGradient id="h" cx="30%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#7c6cf0" stop-opacity=".5"/>
+      <stop offset="55%" stop-color="#4f8fe8" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#0a0d14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="360" fill="#0a0d14"/>
+  <rect width="640" height="360" fill="url(#h)"/>
+  <rect x="255" y="140" width="130" height="110" rx="14" fill="#141a28" stroke="#ff6a1f" stroke-width="3" stroke-dasharray="90 500"/>
+  <circle cx="320" cy="195" r="38" fill="none" stroke="#4f8fe8" stroke-width="9"/>
+  <circle cx="320" cy="195" r="20" fill="#141a28"/>
+  <circle cx="320" cy="195" r="8" fill="#7c6cf0"/>
+  <rect x="270" y="150" width="20" height="10" rx="2" fill="#ff6a1f"/>
+  <rect x="300" y="250" width="40" height="18" rx="4" fill="#141a28" stroke="#4f8fe8" stroke-width="2"/>
+  <text x="430" y="300" font-family="monospace" font-size="16" fill="#ffa552">AURORA PULSE</text>
+</svg>

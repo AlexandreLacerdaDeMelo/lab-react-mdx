@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Ilustração em duotone roxo e azul representando a categoria Iluminação">
+  <defs>
+    <radialGradient id="h" cx="40%" cy="25%" r="80%">
+      <stop offset="0%" stop-color="#7c6cf0" stop-opacity=".55"/>
+      <stop offset="55%" stop-color="#4f8fe8" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#0a0d14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="360" fill="#0a0d14"/>
+  <rect width="640" height="360" fill="url(#h)"/>
+  <path d="M230 120 L410 120 L370 230 L270 230 Z" fill="#141a28" stroke="#ff6a1f" stroke-width="3"/>
+  <line x1="260" y1="150" x2="380" y2="150" stroke="#4f8fe8" stroke-width="3" opacity=".7"/>
+  <line x1="268" y1="175" x2="372" y2="175" stroke="#4f8fe8" stroke-width="3" opacity=".7"/>
+  <line x1="276" y1="200" x2="364" y2="200" stroke="#4f8fe8" stroke-width="3" opacity=".7"/>
+  <rect x="312" y="230" width="16" height="60" fill="#141a28" stroke="#7c6cf0" stroke-width="3"/>
+  <line x1="260" y1="290" x2="380" y2="290" stroke="#7c6cf0" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="460" cy="130" r="4" fill="#ff6a1f"/>
+  <circle cx="480" cy="160" r="3" fill="#ff6a1f" opacity=".7"/>
+</svg>

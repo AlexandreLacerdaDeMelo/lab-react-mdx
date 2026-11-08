@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Ilustração em duotone roxo e azul de dois painéis de LED com halo neon">
+  <defs>
+    <radialGradient id="h" cx="28%" cy="25%" r="80%">
+      <stop offset="0%" stop-color="#7c6cf0" stop-opacity=".5"/>
+      <stop offset="55%" stop-color="#4f8fe8" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#0a0d14" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="s" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#fff" opacity=".04"/></pattern>
+  </defs>
+  <rect width="640" height="360" fill="#0a0d14"/>
+  <rect width="640" height="360" fill="url(#h)"/>
+  <rect x="130" y="70" width="140" height="100" rx="4" fill="#141a28" stroke="#ff6a1f" stroke-width="2" stroke-dasharray="80 500"/>
+  <g fill="#ff6a1f" opacity=".8">
+    <rect x="140" y="80" width="18" height="18"/><rect x="162" y="80" width="18" height="18"/><rect x="184" y="80" width="18" height="18"/><rect x="206" y="80" width="18" height="18"/><rect x="228" y="80" width="18" height="18"/>
+    <rect x="140" y="102" width="18" height="18"/><rect x="162" y="102" width="18" height="18"/><rect x="184" y="102" width="18" height="18"/><rect x="206" y="102" width="18" height="18"/><rect x="228" y="102" width="18" height="18"/>
+  </g>
+  <line x1="200" y1="170" x2="200" y2="260" stroke="#141a28" stroke-width="6"/>
+  <line x1="160" y1="280" x2="240" y2="280" stroke="#141a28" stroke-width="6"/>
+  <rect x="370" y="110" width="140" height="100" rx="4" fill="#141a28" stroke="#4f8fe8" stroke-width="2" stroke-dasharray="80 500"/>
+  <g fill="#4f8fe8" opacity=".8">
+    <rect x="380" y="120" width="18" height="18"/><rect x="402" y="120" width="18" height="18"/><rect x="424" y="120" width="18" height="18"/><rect x="446" y="120" width="18" height="18"/><rect x="468" y="120" width="18" height="18"/>
+    <rect x="380" y="142" width="18" height="18"/><rect x="402" y="142" width="18" height="18"/><rect x="424" y="142" width="18" height="18"/><rect x="446" y="142" width="18" height="18"/><rect x="468" y="142" width="18" height="18"/>
+  </g>
+  <line x1="440" y1="210" x2="440" y2="280" stroke="#141a28" stroke-width="6"/>
+  <line x1="400" y1="300" x2="480" y2="300" stroke="#141a28" stroke-width="6"/>
+  <rect width="640" height="360" fill="url(#s)"/>
+</svg>

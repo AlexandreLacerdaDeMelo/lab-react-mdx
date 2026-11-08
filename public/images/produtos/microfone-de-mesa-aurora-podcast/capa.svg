@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Ilustração em duotone roxo e azul de um microfone de mesa com halo neon">
+  <defs>
+    <radialGradient id="h" cx="35%" cy="25%" r="80%">
+      <stop offset="0%" stop-color="#7c6cf0" stop-opacity=".5"/>
+      <stop offset="55%" stop-color="#4f8fe8" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#0a0d14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="360" fill="#0a0d14"/>
+  <rect width="640" height="360" fill="url(#h)"/>
+  <path d="M260 290 Q260 220 330 220 Q400 220 400 170" fill="none" stroke="#4f8fe8" stroke-width="8" stroke-linecap="round"/>
+  <rect x="235" y="280" width="60" height="16" rx="4" fill="#141a28" stroke="#ff6a1f" stroke-width="2"/>
+  <rect x="380" y="110" width="40" height="80" rx="18" fill="#141a28" stroke="#7c6cf0" stroke-width="4"/>
+  <line x1="388" y1="130" x2="412" y2="130" stroke="#4f8fe8" stroke-width="3"/>
+  <line x1="388" y1="150" x2="412" y2="150" stroke="#4f8fe8" stroke-width="3"/>
+  <line x1="388" y1="170" x2="412" y2="170" stroke="#4f8fe8" stroke-width="3"/>
+  <circle cx="400" cy="100" r="5" fill="#ff6a1f"/>
+  <text x="440" y="300" font-family="monospace" font-size="16" fill="#ffa552">AURORA PODCAST</text>
+</svg>

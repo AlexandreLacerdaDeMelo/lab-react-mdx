@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Ilustração em duotone roxo e azul de um microfone shotgun com halo neon">
+  <defs>
+    <radialGradient id="h" cx="28%" cy="25%" r="80%">
+      <stop offset="0%" stop-color="#7c6cf0" stop-opacity=".5"/>
+      <stop offset="55%" stop-color="#4f8fe8" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#0a0d14" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="s" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#fff" opacity=".04"/></pattern>
+  </defs>
+  <rect width="640" height="360" fill="#0a0d14"/>
+  <rect width="640" height="360" fill="url(#h)"/>
+  <rect x="120" y="165" width="320" height="30" rx="15" fill="#141a28" stroke="#ff6a1f" stroke-width="2" stroke-dasharray="120 700"/>
+  <g stroke="#4f8fe8" stroke-width="2">
+    <line x1="150" y1="172" x2="400" y2="172"/>
+    <line x1="150" y1="180" x2="400" y2="180"/>
+    <line x1="150" y1="188" x2="400" y2="188"/>
+  </g>
+  <ellipse cx="470" cy="180" rx="70" ry="26" fill="#1b2130" stroke="#7c6cf0" stroke-width="2"/>
+  <ellipse cx="470" cy="180" rx="50" ry="18" fill="#0a0d14"/>
+  <rect x="110" y="195" width="18" height="60" fill="#141a28"/>
+  <circle cx="119" cy="265" r="16" fill="none" stroke="#ff6a1f" stroke-width="4"/>
+  <text x="420" y="300" font-family="monospace" font-size="16" fill="#ffa552">rec · mic 01</text>
+  <rect width="640" height="360" fill="url(#s)"/>
+</svg>

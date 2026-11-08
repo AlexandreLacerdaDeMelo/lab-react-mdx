@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Ilustração em duotone roxo e azul de um monitor de campo com halo neon">
+  <defs>
+    <radialGradient id="h" cx="28%" cy="25%" r="80%">
+      <stop offset="0%" stop-color="#7c6cf0" stop-opacity=".5"/>
+      <stop offset="55%" stop-color="#4f8fe8" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#0a0d14" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="s" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#fff" opacity=".04"/></pattern>
+  </defs>
+  <rect width="640" height="360" fill="#0a0d14"/>
+  <rect width="640" height="360" fill="url(#h)"/>
+  <rect x="220" y="90" width="220" height="160" rx="6" fill="#141a28" stroke="#ff6a1f" stroke-width="2" stroke-dasharray="120 700"/>
+  <rect x="236" y="106" width="188" height="128" fill="#1b2130" stroke="#4f8fe8" stroke-width="2"/>
+  <line x1="236" y1="140" x2="424" y2="140" stroke="#4f8fe8" stroke-width="1" opacity=".5"/>
+  <line x1="236" y1="200" x2="424" y2="200" stroke="#4f8fe8" stroke-width="1" opacity=".5"/>
+  <rect x="310" y="250" width="40" height="20" fill="#141a28"/>
+  <text x="250" y="130" font-family="monospace" font-size="14" fill="#ffa552">AF 100%</text>
+  <rect width="640" height="360" fill="url(#s)"/>
+</svg>

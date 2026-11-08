@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Ilustração em duotone roxo e azul de uma bateria externa com halo neon">
+  <defs>
+    <radialGradient id="h" cx="30%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#7c6cf0" stop-opacity=".5"/>
+      <stop offset="55%" stop-color="#4f8fe8" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#0a0d14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="360" fill="#0a0d14"/>
+  <rect width="640" height="360" fill="url(#h)"/>
+  <rect x="245" y="110" width="150" height="220" rx="16" fill="#141a28" stroke="#ff6a1f" stroke-width="3" stroke-dasharray="100 700"/>
+  <rect x="305" y="90" width="30" height="20" rx="4" fill="#141a28" stroke="#ff6a1f" stroke-width="2"/>
+  <path d="M330 150 L300 215 L325 215 L300 275 L360 200 L332 200 Z" fill="#7c6cf0"/>
+  <rect x="265" y="300" width="25" height="12" rx="3" fill="#4f8fe8"/>
+  <rect x="300" y="300" width="25" height="12" rx="3" fill="#4f8fe8"/>
+  <text x="430" y="300" font-family="monospace" font-size="16" fill="#ffa552">AURORA POWER</text>
+</svg>

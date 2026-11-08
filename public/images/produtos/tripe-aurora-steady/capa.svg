@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Ilustração em duotone roxo e azul de um tripé de câmera com halo neon">
+  <defs>
+    <radialGradient id="h" cx="28%" cy="25%" r="80%">
+      <stop offset="0%" stop-color="#7c6cf0" stop-opacity=".5"/>
+      <stop offset="55%" stop-color="#4f8fe8" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#0a0d14" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="s" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#fff" opacity=".04"/></pattern>
+  </defs>
+  <rect width="640" height="360" fill="#0a0d14"/>
+  <rect width="640" height="360" fill="url(#h)"/>
+  <line x1="320" y1="140" x2="220" y2="300" stroke="#141a28" stroke-width="10"/>
+  <line x1="320" y1="140" x2="320" y2="300" stroke="#141a28" stroke-width="10"/>
+  <line x1="320" y1="140" x2="420" y2="300" stroke="#141a28" stroke-width="10"/>
+  <line x1="320" y1="140" x2="220" y2="300" stroke="#ff6a1f" stroke-width="2" stroke-dasharray="60 400"/>
+  <rect x="280" y="110" width="80" height="30" rx="4" fill="#141a28" stroke="#4f8fe8" stroke-width="3"/>
+  <circle cx="320" cy="100" r="12" fill="none" stroke="#7c6cf0" stroke-width="4"/>
+  <rect width="640" height="360" fill="url(#s)"/>
+</svg>

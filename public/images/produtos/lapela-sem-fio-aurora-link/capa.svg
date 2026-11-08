@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Ilustração em duotone roxo e azul de um microfone de lapela sem fio com halo neon">
+  <defs>
+    <radialGradient id="h" cx="28%" cy="25%" r="80%">
+      <stop offset="0%" stop-color="#7c6cf0" stop-opacity=".5"/>
+      <stop offset="55%" stop-color="#4f8fe8" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#0a0d14" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="s" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#fff" opacity=".04"/></pattern>
+  </defs>
+  <rect width="640" height="360" fill="#0a0d14"/>
+  <rect width="640" height="360" fill="url(#h)"/>
+  <rect x="180" y="150" width="90" height="60" rx="10" fill="#141a28" stroke="#ff6a1f" stroke-width="2" stroke-dasharray="60 400"/>
+  <circle cx="225" cy="180" r="10" fill="#7c6cf0"/>
+  <path d="M400 200 a30 30 0 0 1 60 0" fill="none" stroke="#4f8fe8" stroke-width="4"/>
+  <path d="M385 215 a60 60 0 0 1 90 0" fill="none" stroke="#4f8fe8" stroke-width="3" opacity=".6"/>
+  <rect x="400" y="200" width="50" height="34" rx="8" fill="#141a28" stroke="#ff6a1f" stroke-width="2" stroke-dasharray="30 250"/>
+  <circle cx="425" cy="217" r="7" fill="#7c6cf0"/>
+  <rect width="640" height="360" fill="url(#s)"/>
+</svg>
